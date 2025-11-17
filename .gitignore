@@ -3,15 +3,15 @@
 Thumbs.db
 
 # Laravel (Backend)
-/vynl-backend/vendor/
-/vynl-backend/.env
-/vynl-backend/storage/framework/sessions/*
-/vynl-backend/storage/framework/views/*
-/vynl-backend/storage/framework/cache/data/*
-/vynl-backend/storage/logs/*.log
+/vnyl-backend/vendor/
+/vnyl-backend/.env
+/vnyl-backend/storage/framework/sessions/*
+/vnyl-backend/storage/framework/views/*
+/vnyl-backend/storage/framework/cache/data/*
+/vnyl-backend/storage/logs/*.log
 
 # React (Frontend)
-/vynl-frontend/node_modules/
-/vynl-frontend/.env
-/vynl-frontend/build/
-/vynl-frontend/.DS_Store
+/vnyl-frontend/node_modules/
+/vnyl-frontend/.env
+/vnyl-frontend/build/
+/vnyl-frontend/.DS_Store
