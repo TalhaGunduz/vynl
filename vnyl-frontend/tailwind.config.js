@@ -2,12 +2,13 @@
 export default {
   content: [
     './index.html',
-    './src/**/*.{ts,tsx}',
+    './src/**/*.{js,ts,jsx,tsx}', // .js ve .jsx dosyalarını da taramaya ekledim
   ],
   theme: {
     extend: {
       colors: {
-        accent: '#FF6B00',
+        accent: '#FFA17F', // Sizin istediğiniz renk
+        'accent-hover': '#E69171', // Üzerine gelindiğinde kullanılacak biraz daha koyu bir ton ekledim
         bg: '#0e0e0e',
         fg: '#f5f5f5',
       },
