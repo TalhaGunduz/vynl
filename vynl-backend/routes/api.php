@@ -14,4 +14,4 @@ Route::get('/tracks', function () {
         ['id' => 7, 'title' => 'Soft Bloom', 'artist' => 'Juniper', 'gradient' => 'from-[#1e1a24] via-[#2a2230] to-[#352a3d]'],
         ['id' => 8, 'title' => 'Over Water', 'artist' => 'Kepler', 'gradient' => 'from-[#1a2420] via-[#223028] to-[#2a3d34]'],
     ]);
-});
+});s
